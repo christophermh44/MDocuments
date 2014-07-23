@@ -59,7 +59,7 @@
 			</li><?php
 		} ?>
 		</ul>
-		<div class="bottom"><a href="#">Documentation</a></div>
+		<div class="bottom"><a href="https://github.com/christopher-mh/MDocuments">Projet sur Github</a></div>
 	</div>
 	<div id="iframe"><iframe src="empty.html" frameborder="0"></iframe></div>
 	<div id="full-screen"><button>Plein écran</button></div>

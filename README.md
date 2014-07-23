@@ -21,3 +21,5 @@ TODO :
 - Improve source quality
 - Make it responsive
 - Any ideas are welcomed !
+
+[About the project (FR)](http://c-mh.fr/posts/un-lecteur-de-documents-markdown)

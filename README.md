@@ -19,4 +19,5 @@ This project uses :
 TODO :
 - Remove apparently useless html2pdf library
 - Improve source quality
+- Make it responsive
 - Any ideas are welcomed !
